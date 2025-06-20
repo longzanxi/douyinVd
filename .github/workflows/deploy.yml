@@ -30,7 +30,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "dyxz"
-          entrypoint: "main.ts"
+          entrypoint: "file:///Users/pwhcoder/WebstormProjects/douyinVd/douyin.ts"
           root: "."
           
           
